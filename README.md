@@ -1,7 +1,7 @@
 # ADI-Labs-Spring2023-FinalProject
 Final project for ADI Labs Spring 2023, where students will put to practice skills learned during the program, by working n a Spelling Bee solver
 
-# NYT Time Spelling Bee Solver
+## NYT Time Spelling Bee Solver
 
 This is a program to solve the NYT Time Spelling Bee game. The game consists of a circle of letters and the player needs to make words using these letters. The center letter is mandatory to use in each word. The game has the following rules:
 
@@ -14,6 +14,6 @@ How to Use the Solver
 
 The program takes the letters in the circle as input and returns all the valid words that can be made using those letters. The user can enter the letters manually or read them from a file.
 
-How the Solver Works
+## How the Solver Works
 
 The program uses a dictionary to find all the valid words that can be made using the letters in the circle. It then checks if each word meets the game's criteria and returns the valid words.
